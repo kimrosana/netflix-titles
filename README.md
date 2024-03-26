@@ -1,7 +1,7 @@
 # Netflix Titles - Case Study
 
 This was a quick and short Power BI project about Netflix titles I took on, and my first one using Power BI!
-The goal of this project was to better understand Netflix's catalogue, by answering questions such as: what country/genre is more present in the catalogue? Was there a significant peak of movies/tv shows released from one year to another in the platform? Does Netflix invest more on older (arbitrarily pre-2010) or newer released movies?
+The goal of this project was to better understand Netflix's catalogue, by answering questions such as: what country/genre is more present in the catalogue? Was there a significant peak of movies/tv shows released from one year to another in the platform? Does Netflix invest more on older (arbitrarily pre-2015) or newer released movies?
 
 *****About the dataset*****
 
