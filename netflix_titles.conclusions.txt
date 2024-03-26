@@ -1,0 +1,18 @@
+	# netflix_titles up to 2020 dataset conclusions	
+
+1. More than 25% of directors are American.
+2. The second country with the highest amount of directors is India, with a total of 586 directors.
+3. Netflix has been investing in International Movies - most of them are from India (536 out of 1919), much probably as a way to attract subscribers from different countries, considering the amount of subscribers in said country.
+4. Approximately 32% of the catalogue consist of TV Shows.
+5. Approximately 68% of the titles available were originally released from 2015 on.
+6. The top 3 listed in genres are: International Movies, Dramas and Comedies.
+7. K-Dramas (132 titles) is more represented than Classic Movies (83) in the catalogue.
+8. 32,42% of the catalogue represents TV-MA rating titles - I wonder whether these numbers have changed after making a 'Kids' profile available.
+
+	# Dataset limitations
+
+1. It is not clear where the catalogue studied in question is from. As we know, Netflix's catalogue changes from country to country, making it an important piece of information missing.
+
+	# Further comments
+
+It would be interesting to make a comparative study with a dataset containing audience numbers in order to check whether their choices for the catalogue have been effectively engaging subscribers or not, for example.
